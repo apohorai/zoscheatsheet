@@ -30,4 +30,5 @@ https://mainframeforunix.wordpress.com/2016/11/12/working-with-sdsf-for-job-mana
 file:///home/apohorai/Downloads/13031%20-%20SDSF%20-%20Beyond%20the%20Basics.pdf<br>
 How to send a joblog - syslog on z/OS to support?<br>
 https://community.progress.com/s/article/5151<br>
-https://www.austincc.edu/akochis/unix/u009.htm
+Bourne Shell Basics<br>
+https://www.austincc.edu/akochis/unix/u009.htm<br>
