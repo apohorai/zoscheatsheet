@@ -27,6 +27,7 @@ Using cp to copy a z/OS UNIX file into a sequential data set or PDS member<br>
 https://www.ibm.com/docs/en/zos/2.2.0?topic=czufisdspm-using-cp-copy-zos-unix-file-into-sequential-data-set-pds-member<br>
 Working with SDSF for Job Management<br>
 https://mainframeforunix.wordpress.com/2016/11/12/working-with-sdsf-for-job-management/<br>
-file:///home/apohorai/Downloads/13031%20-%20SDSF%20-%20Beyond%20the%20Basics.pdf
-https://community.progress.com/s/article/5151
+file:///home/apohorai/Downloads/13031%20-%20SDSF%20-%20Beyond%20the%20Basics.pdf<br>
+How to send a joblog - syslog on z/OS to support?<br>
+https://community.progress.com/s/article/5151<br>
 https://www.austincc.edu/akochis/unix/u009.htm
