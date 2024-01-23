@@ -16,7 +16,8 @@ https://mainframed.wordpress.com/
 change vtam<br>
 https://github.com/mainframed/ANSi2EBCDiC<br>
 
-https://mainframed.wordpress.com/2012/06/17/changing-the-logon-screen-on-the-mainframe-zos-vtam-in-adcd/
+https://mainframed.wordpress.com/2012/06/17/changing-the-logon-screen-on-the-mainframe-zos-vtam-in-adcd/<br>
+ansi editor <br>
 https://patorjk.com/software/taag/#p=display&f=Soft&t=Poha%20z%2FOS%0Amainframe
 http://cart.marist.edu/enterprisesystemseducation/HLASM%20Lang%20RefSept%2013.pdf
 https://programmerspub.com/jcl/jcl-coding-sheet
