@@ -5,7 +5,7 @@ $ ./cp poha hellow cobol test<br>
 $ cat cp<br>
 cp transfer "//'$1.$2.$3($4)'"<br>
 how to write a basic cobol<br>
-https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f
+https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f<br>
 R1V11 doc by ibm:<br>
 https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosv1r11-pdf-download?OpenDocument#uss
 https://publibz.boulder.ibm.com/epubs/pdf/bpxza4a0.pdf
