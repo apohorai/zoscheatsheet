@@ -21,7 +21,8 @@ ansi editor <br>
 https://patorjk.com/software/taag/#p=display&f=Soft&t=Poha%20z%2FOS%0Amainframe<br>
 High Level Assembler for z/OS & z/VM & z/VSE
 http://cart.marist.edu/enterprisesystemseducation/HLASM%20Lang%20RefSept%2013.pdf<br>
-https://programmerspub.com/jcl/jcl-coding-sheet
+JCL Coding Sheet
+https://programmerspub.com/jcl/jcl-coding-sheet<br>
 https://www.ibm.com/docs/en/zos/2.2.0?topic=czufisdspm-using-cp-copy-zos-unix-file-into-sequential-data-set-pds-member
 https://mainframeforunix.wordpress.com/2016/11/12/working-with-sdsf-for-job-management/
 file:///home/apohorai/Downloads/13031%20-%20SDSF%20-%20Beyond%20the%20Basics.pdf
