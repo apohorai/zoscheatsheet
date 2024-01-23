@@ -18,8 +18,9 @@ https://github.com/mainframed/ANSi2EBCDiC<br>
 
 https://mainframed.wordpress.com/2012/06/17/changing-the-logon-screen-on-the-mainframe-zos-vtam-in-adcd/<br>
 ansi editor <br>
-https://patorjk.com/software/taag/#p=display&f=Soft&t=Poha%20z%2FOS%0Amainframe
-http://cart.marist.edu/enterprisesystemseducation/HLASM%20Lang%20RefSept%2013.pdf
+https://patorjk.com/software/taag/#p=display&f=Soft&t=Poha%20z%2FOS%0Amainframe<br>
+High Level Assembler for z/OS & z/VM & z/VSE
+http://cart.marist.edu/enterprisesystemseducation/HLASM%20Lang%20RefSept%2013.pdf<br>
 https://programmerspub.com/jcl/jcl-coding-sheet
 https://www.ibm.com/docs/en/zos/2.2.0?topic=czufisdspm-using-cp-copy-zos-unix-file-into-sequential-data-set-pds-member
 https://mainframeforunix.wordpress.com/2016/11/12/working-with-sdsf-for-job-management/
