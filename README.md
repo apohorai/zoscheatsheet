@@ -32,3 +32,5 @@ How to send a joblog - syslog on z/OS to support?<br>
 https://community.progress.com/s/article/5151<br>
 Bourne Shell Basics<br>
 https://www.austincc.edu/akochis/unix/u009.htm<br>
+myzos
+file:///4tb/zos/zos_110_winter2.pdf<br>
