@@ -23,7 +23,8 @@ High Level Assembler for z/OS & z/VM & z/VSE
 http://cart.marist.edu/enterprisesystemseducation/HLASM%20Lang%20RefSept%2013.pdf<br>
 JCL Coding Sheet
 https://programmerspub.com/jcl/jcl-coding-sheet<br>
-https://www.ibm.com/docs/en/zos/2.2.0?topic=czufisdspm-using-cp-copy-zos-unix-file-into-sequential-data-set-pds-member
+Using cp to copy a z/OS UNIX file into a sequential data set or PDS member<br>
+https://www.ibm.com/docs/en/zos/2.2.0?topic=czufisdspm-using-cp-copy-zos-unix-file-into-sequential-data-set-pds-member<br>
 https://mainframeforunix.wordpress.com/2016/11/12/working-with-sdsf-for-job-management/
 file:///home/apohorai/Downloads/13031%20-%20SDSF%20-%20Beyond%20the%20Basics.pdf
 https://community.progress.com/s/article/5151
